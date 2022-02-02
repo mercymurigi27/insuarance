@@ -1,0 +1,39 @@
+
+
+.homepage{
+    display: flex;
+    background: url(./hero-cover.3.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 900px;
+    width: 100pc;
+
+
+    
+}
+
+#brand, li{ 
+    list-style-type: none;
+    font-weight: bold;
+    color:#FFFFFF ;
+    display: inline;
+    width: 60px;
+    margin: 30px;
+    text-align: center;
+}
+
+.nav {
+    display: flex;
+
+}
+#k, li{
+    color: white;
+}
+
+.body{
+    text-align: center;
+    padding: 10px;
+    color: white;
+    font-family: Montserrat;
+    position: relative;
+}
