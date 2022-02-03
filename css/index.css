@@ -177,6 +177,7 @@
     border-style: solid;
     border-color: white;
     margin: 0px 15px;
+    padding: 30px;
 
 }
 .star{
@@ -184,5 +185,18 @@
     fill: yellow;
 }
 
+.logos{
+    display: flex;
+  justify-content: space-evenly;
+  background-color: rgba(37, 43, 66, 0.1);
+  padding: 30px 0px;
 
+
+   
+
+}
+ .logos img{
+    height:45px;
+
+}
 
