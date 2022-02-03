@@ -1,39 +1,30 @@
-
-
-.homepage{
-    display: flex;
-    background: url(./hero-cover.3.png);
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: 900px;
-    width: 100pc;
-
-
-    
+.headcontainer{
+    height: 700px;
+    width: 100%;
+    background-color: #FAFAFA;
 }
+.container{
+    height: 600px;
+    width:100%;
+    background-image: url("./images/hero-cover.3.png");
+    background-size:cover;
+}
+.topnav{
+    width:100%;
+    display: flex;
+    justify-content: space-evenly;
 
-#brand, li{ 
-    list-style-type: none;
+}
+.nav a{
+    color: white;
+    font-family: monserrat;
+    margin: 10px;
+    padding-top: 30px;
+}
+h1{
+    color: white;
+    font-family: monserrat, sans-serif;
     font-weight: bold;
-    color:#FFFFFF ;
-    display: inline;
-    width: 60px;
-    margin: 30px;
-    text-align: center;
-}
-
-.nav {
-    display: flex;
-
-}
-#k, li{
-    color: white;
-}
-
-.body{
-    text-align: center;
-    padding: 10px;
-    color: white;
-    font-family: Montserrat;
-    position: relative;
+    padding: -10px;
+    font-size: small;
 }
