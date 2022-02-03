@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+*{
+    font-family: "Montserrat", sans-serif;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.headcontainer{
+    /* height: 700px; */
+    /* width: 100%; */
+    
+}
+.container{
+    position: relative;
+    height: 100vh;
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5) ),url(../images/hero-cover.3.png);
+    background-size:cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    
+    
+
+}
+
+.topnav{
+    width:100%;
+    display: flex;
+    padding-top: 20px;
+    justify-content: space-evenly;
+
+    
+
+}
+.nav a{
+    color: white;
+    /* font-family: monserrat; */
+    margin: 10px;
+    text-decoration: none;
+    
+}
+.topnav h1{
+    color: white;
+    font-weight: bold;
+    font-size:20px;
+    margin: 0px;
+}
+.log a{
+    /* font-family: monserrat, sans-serif; */
+    margin: 0px;
+    color: white;
+    margin-right: 5px;
+    text-decoration: none;
+
+    
+}
+.log button{
+    color: white;
+    background-color: #23A6F0;
+    padding: 5px;
+    height: 1cm;
+
+}
+
+#on{
+    background-color:#23A6F0 ;
+    border-radius: 10px;
+    padding: 5px;
+    height: 1cm;
+    color: white;
+    border-color: white;
+    width: 4cm;
+    border-radius: 20px;
+    align-items: center;
+
+}
+#off{
+    background-color: #23A6F0;
+    color: white;
+    border-radius: 20px;
+    height: 1cm;
+    width: 4cm;
+    padding: 10px;
+    border-color: white;
+    box-shadow: none;
+    
+}
+.centre{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    
+
+
+
+}
+.centre h2{
+    color: white;
+    font-size: 38px;
+    padding: 20px 0px;
+    font-weight: bold;
+
+}
+.centre p{
+    padding: 10px 0px;
+    color: white;
+}
