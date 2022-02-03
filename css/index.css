@@ -113,7 +113,7 @@
     display: flex;
     width: 99vw;
     border: white;
-    background-color: rgba(37, 43, 66, 0.2);
+    background-color: rgba(37, 43, 66, 0.1);
   justify-content: center;
   padding: 20px;
   overflow: visible;
@@ -157,7 +157,32 @@
     text-align: center;
     padding: 30px;
     
-
+}
+.industry{
+    text-align: center;
+    background-color: rgba(37, 43, 66, 0.1);
+    padding: 20px;
 
 }
+
+.pe{
+    display: flex;
+    padding: 20px;
+    text-align: center;
+    justify-content: center;
+    background-color: rgba(37, 43, 66, 0.1);
+
+}
+.pe1, .pe2, .pe3{
+    border-style: solid;
+    border-color: white;
+    margin: 0px 15px;
+
+}
+.star{
+    color: yellow;
+    fill: yellow;
+}
+
+
 
