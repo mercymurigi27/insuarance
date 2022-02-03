@@ -18,6 +18,7 @@
     background-size:cover;
     background-position: center center;
     background-repeat: no-repeat;
+    overflow: visible;
     
     
 
@@ -106,4 +107,37 @@
 .centre p{
     padding: 10px 0px;
     color: white;
+}
+
+.overflow{
+    display: flex;
+    width: 99vw;
+    border: white;
+    background-color: rgba(37, 43, 66, 0.2);
+  justify-content: center;
+  padding: 20px;
+  overflow: visible;
+    
+    
+
+}
+.peace1, .peace2, .peace3{
+    border-style: solid;
+  margin: 0px 15px;
+  border-color: white;
+  text-align: center;
+  padding: 20px;
+  margin-top: -20px;
+
+}
+.iconify{
+    width: 1cm;
+    height: 1cm;
+
+}
+.peace1, .peace2{
+    background-color: white;
+}
+.peace3{
+    background-color: #23A6F0;
 }
