@@ -131,8 +131,9 @@
 
 }
 .iconify{
-    width: 1cm;
-    height: 1cm;
+    width: 1.2cm;
+    height: 1.2cm;
+  
 
 }
 .peace1, .peace2{
@@ -141,3 +142,22 @@
 .peace3{
     background-color: #23A6F0;
 }
+
+.people{
+    display: flex;
+    padding: 40px;
+    text-align: center;
+    justify-content: center;
+   
+
+}
+.bkmark, .bkmark2, .bkmark3{
+    border-style: none;
+    margin: 0px 15px;
+    text-align: center;
+    padding: 30px;
+    
+
+
+}
+
