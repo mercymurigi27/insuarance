@@ -166,6 +166,8 @@
 }
 
 .pe{
+    height: 100vh;
+    width: ;
     display: flex;
     padding: 20px;
     text-align: center;
@@ -199,4 +201,25 @@
     height:45px;
 
 }
+.gradient{
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    background: linear-gradient(90deg, #094488, #D25188);
 
+}
+.gradient h2{
+    color: white;
+}
+
+.fom{
+    display: flex;
+}
+.fom input{
+    height: 40px;
+}
+.fom button{
+    height: 40px;
+    background-color:#23A6F0 ;
+
+}
