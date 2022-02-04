@@ -115,8 +115,10 @@
     border: white;
     background-color: rgba(37, 43, 66, 0.1);
   justify-content: center;
-  padding: 20px;
   overflow: visible;
+  /* padding-top: -10px; */
+  padding-top: 20px;
+  position: relative;
     
     
 
@@ -186,6 +188,13 @@
     color: yellow;
     fill: yellow;
 }
+.pe1 img{
+    padding: 20px;
+}
+.pe1 p{
+    padding: 20px;
+
+}
 
 .logos{
     display: flex;
@@ -227,4 +236,50 @@
     text-align: center;
     background-color: rgba(37, 43, 66, 0.1);
     padding: 20px;
+}
+.flex{
+    display: flex;
+    background-color:rgba(37, 43, 66, 0.1) ;
+  justify-content: center;
+   height: auto;
+   color: black;
+    
+}
+.flex1, .flex3{
+border-style: solid;
+border-color: #23A6F0;
+border-width: 1px;
+/* text-align: center; */
+/* margin-left: 80px; */
+}
+.headb{
+    
+    list-style-position: inside;
+
+}
+.headb li{
+    display: flex;
+    font-weight: normal;
+}
+.flex button{
+    background-color:#23A6F0  ;
+    height:1cm;
+    /* align-items: center; */
+   
+}
+.flex1 h2, .flex2 h2, .flex3 h2{
+    text-align: center;
+    padding: 10px;
+}
+
+.flex2{
+    border: solid;
+    border-color:#23A6F0 ;
+    padding-top: 20px;
+    background-color: #094488;
+    border-width: 1px;
+}
+.flex1 p, .flex2 p, .flex3 p{
+    text-align: center;
+    padding: 10px;
 }
