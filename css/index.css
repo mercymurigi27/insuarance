@@ -116,8 +116,8 @@
     background-color: rgba(37, 43, 66, 0.1);
   justify-content: center;
   overflow: visible;
-  /* padding-top: -10px; */
-  padding-top: 20px;
+  padding-top: -50px;
+  padding-bottom: 50px;
   position: relative;
     
     
@@ -180,7 +180,7 @@
     border-style: solid;
     border-color: white;
     margin: 0px 15px;
-    padding: 30px;
+    padding: 20px;
 
 }
 .star{
