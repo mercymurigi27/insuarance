@@ -169,7 +169,6 @@
 
 .pe{
     height: 100vh;
-    width: ;
     display: flex;
     padding: 20px;
     text-align: center;
@@ -195,7 +194,18 @@
     padding: 20px;
 
 }
-
+.pe2 img{
+    padding: 20px;
+}
+.pe2 p{
+    padding: 20px;
+}
+.pe3 img{
+    padding: 20px;
+}
+.pe3 p{
+    padding: 20px;
+}
 .logos{
     display: flex;
   justify-content: space-evenly;
