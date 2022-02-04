@@ -223,3 +223,8 @@
     background-color:#23A6F0 ;
 
 }
+.price{
+    text-align: center;
+    background-color: rgba(37, 43, 66, 0.1);
+    padding: 20px;
+}
