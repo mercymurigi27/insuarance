@@ -249,8 +249,9 @@
 border-style: solid;
 border-color: #23A6F0;
 border-width: 1px;
-/* text-align: center; */
-/* margin-left: 80px; */
+padding: 20px;
+border-radius: 1pc;
+
 }
 .headb{
     
@@ -264,7 +265,9 @@ border-width: 1px;
 .flex button{
     background-color:#23A6F0  ;
     height:1cm;
-    /* align-items: center; */
+    padding: 10px;
+    text-align: center;
+    justify-content: center;
    
 }
 .flex1 h2, .flex2 h2, .flex3 h2{
@@ -275,11 +278,25 @@ border-width: 1px;
 .flex2{
     border: solid;
     border-color:#23A6F0 ;
-    padding-top: 20px;
+    padding: 20px;
     background-color: #094488;
     border-width: 1px;
+    border-radius: 1pc;
 }
 .flex1 p, .flex2 p, .flex3 p{
     text-align: center;
     padding: 10px;
+}
+.flex li, .flex2 li, .flex3 li{
+    padding: 10px;
+}
+#p{
+    column-gap: #23A6F0 ;
+}
+.flex1 h3, .flex2 h3, .flex3 h3{
+    color: #23A6F0 ;
+    text-align: center;
+}
+.fas{
+    color: green;
 }
