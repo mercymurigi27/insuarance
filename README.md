@@ -7,9 +7,9 @@
 
 # How to Install
  ### For the system to run one will need a
-   smartphone/laptop/desktop
-   access to internet
-   an updated IOS
+smartphone/laptop/desktop
+access to internet
+an updated IOS
  ### The system is accessed by downloading it from the internet and following the propmts to install.
 
 
