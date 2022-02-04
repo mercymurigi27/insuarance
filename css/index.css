@@ -308,5 +308,28 @@ border-radius: 1pc;
     text-align: center;
 }
 .fas{
-    color: green;
+    color: yellow;
+}
+.bigdiv{
+ background-color: rgba(37, 43, 66, 0.1);
+ padding-top: 50px;
+}
+.map{
+    background-color: #252B42;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+ #map1{
+   height: 3cm;
+   padding: 20px;
+   
+}
+.note{
+    color: white;
+    padding: 20px;
+}
+.note h2{
+    padding: 20px;
+   
 }
