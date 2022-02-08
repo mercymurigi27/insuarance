@@ -1,5 +1,5 @@
-# insuarance
- ### Is a system that helps people decide which premium is best suited for them.
+# Insuarance
+  Is a system that helps people decide which premium is best suited for them.
 
 # Description
  * The system has an easy to use user interface where the user is prompted to enter their details for subscription.
